@@ -1,3 +1,5 @@
 ** Authors **
 - [Braddy Yeoh]
 - [Kacper Twardowski]
+
+I DONT EVEN NEED TO SWAP TO ANY EDITOR, I CAN JUST EDIT THIS FILE FROM GITKRAKEN
